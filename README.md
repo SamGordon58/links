@@ -34,6 +34,7 @@ from Antisyphon Business compromise cast 1/8/2025
 [TrustedSec](https://trustedsec.com/resources)
 
 # Tools 
+[John Strand's Github: SOC_Analyst_Labs](https://github.com/strandjs)
 
 [oletools - Tools to scan Office Files without opening them](https://github.com/decalage2/oletools)
 
