@@ -36,6 +36,8 @@ from Antisyphon Business compromise cast 1/8/2025
 # Tools 
 [John Strand's Github: SOC_Analyst_Labs](https://github.com/strandjs)
 
+[Arcanium Security - Tools and Training](https://www.arcanum-sec.com/training/hack-your-brand)
+
 [oletools - Tools to scan Office Files without opening them](https://github.com/decalage2/oletools)
 
 [Malware Analysis Tools](https://www.varonis.com/blog/malware-analysis-tools)
