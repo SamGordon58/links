@@ -50,6 +50,8 @@ from Antisyphon Business compromise cast 1/8/2025
 
 [Jason Haddix Github](https://github.com/jhaddix?tab=repositories)
 
+[OSSEC](https://www.ossec.net/)
+
 # Blogs
 
 [Michael Bank's Blog](https://blog.michaelbanks.org/)
