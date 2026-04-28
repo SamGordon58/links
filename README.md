@@ -55,6 +55,9 @@ from Antisyphon Business compromise cast 1/8/2025
 
 [GTFO Bins](https://gtfobins.org/)
 
+# Games
+[Dungeons and Daemons](https://trustedsec.com/blog/dungeons-and-daemons)
+
 # Blogs
 
 [Michael Bank's Blog](https://blog.michaelbanks.org/)
