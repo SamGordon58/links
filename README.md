@@ -24,6 +24,7 @@ from Antisyphon Business compromise cast 1/8/2025
 [YTLink](https://www.youtube.com/watch?v=KYMsc5O9QM0)
 
 # News
+[TechWorld Monitor](https://tech.worldmonitor.app/?lat=24.2442&lon=0.0000&zoom=1.29&view=global&timeRange=7d&layers=cables%2Coutages%2Cdatacenters%2Cnatural%2CstartupHubs%2CcloudRegions%2CtechHQs%2CtechEvents)
 
 [SecJuice](https://www.secjuice.com/)
 
