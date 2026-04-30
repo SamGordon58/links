@@ -1,5 +1,11 @@
 # Useful links Repo
 
+# AI Stuff
+
+[Hermes Agent](https://github.com/nousresearch/hermes-agent)
+
+[Recall AI](https://www.recall.it/)
+
 # NIST / CMMC
 [NIST 800 171 r2](https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final)
 
