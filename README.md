@@ -18,6 +18,8 @@
 
 [CMMC Training Academy](https://www.cmmctraining.academy/cmmc-and-nist-training-courses/certified-cmmc-assessor-cca)
 
+[Tenant Check for GCCH](https://gettenantpartitionweb.azurewebsites.net/)
+
 # Best Practices
 [system-hardening-and-administration/system-hardening/implementing-application-control](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-hardening/implementing-application-control)
 
