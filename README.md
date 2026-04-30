@@ -98,6 +98,8 @@ from Antisyphon Business compromise cast 1/8/2025
 
 [LLittleKeyboards](https://www.littlekeyboards.com/)
 
+[Keebd](https://keebd.com)
+
 [SplitKb](https://splitkb.com)
 
 [Keeb.io](https://keeb.io)
