@@ -7,15 +7,28 @@
 [Recall AI](https://www.recall.it/)
 
 # NIST / CMMC
-[NIST 800-171R2](https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final)
+[NIST 800-171R2 - Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final)
 
-[NIST 800-62R2](https://csrc.nist.gov/pubs/sp/800/61/r2/final)
+[NIST 800-62R2 - Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final)
 
-[NIST 80-53R5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+[NIST 800-53R5 - Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
 
+[NIST 800-60V1 - Systems Security Engineering: Considerations for a Multidisciplinary Approach in the Engineering of Trustworthy Secure Systems](https://csrc.nist.gov/pubs/sp/800/160/v1/upd2/final)
+
+[NIST SP 800-37 Rev. 2 - Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy](https://csrc.nist.gov/pubs/sp/800/37/r2/final)
+
+[NIST SP 800-39
+Managing Information Security Risk: Organization, Mission, and Information System View](https://csrc.nist.gov/pubs/sp/800/39/final)
+
+[NIST SP 800-30R1 Guide for Conducting Risk Assessments](https://csrc.nist.gov/pubs/sp/800/30/r1/final)
 
 [Cyber AB](https://cyberab.org/CMMC-Ecosystem/Ecosystem-Roles/Assessing-and-Certification)
 
+[CNSSI 1253 - SECURITY CATEGORIZATION AND CONTROL SELECTION FOR NATIONAL SECURITY SYSTEMS](https://www.dcsa.mil/portals/91/documents/ctp/nao/CNSSI_No1253.pdf)
+
+[FIPS PUB 199 - Standards for Security Categorization of Federal Information and Information Systems](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.199.pdf)
+
+[FIPS PUB 200 - Minimum Security Requirements for Federal Information and Information System](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.200.pdf)
 
 [CMMC Training Academy](https://www.cmmctraining.academy/cmmc-and-nist-training-courses/certified-cmmc-assessor-cca)
 
