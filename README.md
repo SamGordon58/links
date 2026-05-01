@@ -10,6 +10,10 @@
 
 [252.204-7012 Safeguarding Covered Defense Information and Cyber Incident Reporting](https://www.acquisition.gov/dfars/252.204-7012-safeguarding-covered-defense-information-and-cyber-incident-reporting.)
 
+[52.204-21 Basic Safeguarding of Covered Contractor Information Systems](https://www.acquisition.gov/far/52.204-21)
+
+[252.204-7020 NIST SP 800-171DoD Assessment Requirements](https://www.acquisition.gov/dfars/252.204-7020-nist-sp-800-171dod-assessment-requirements.)
+
 [DOD CMMC Site](https://dodcio.defense.gov/cmmc/About/)
 
 [NIST 800-171R2 - Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final)
@@ -72,6 +76,7 @@ from Antisyphon Business compromise cast 1/8/2025
 
 [BreachClock](https://breachclock.com/)
 
+[DataBreachToday](https://www.databreachtoday.com/)
 # Tools 
 
 [Cyber Chef](https://cyberchef.org/)
@@ -111,6 +116,8 @@ from Antisyphon Business compromise cast 1/8/2025
 [HackSplaining](https://www.hacksplaining.com/lessons)
 
 [O365 License Feature Matrix](https://m365maps.com/matrix.htm#00001110000000000000000)
+
+[Unifi SSH Commands](https://lazyadmin.nl/home-network/unifi-ssh-commands/)
 
 
 # Games
@@ -152,6 +159,12 @@ from Antisyphon Business compromise cast 1/8/2025
 [forensickween](https://forensicskween.com/)
 
 [IR Report Template: Hackthebox](https://docs.google.com/document/d/e/2PACX-1vTkpIEicOwy8tRNAxKa4f4cMpc7wrUHRM5Nr_A_bObpzDQg5pAvj7jniHa_uVWQCuHLr21hQO64BsVi/pub)
+
+[Info Sec Institute](https://www.infosecinstitute.com/)
+
+[EFF: Electronic Freedom Foundation](https://www.eff.org/)
+
+[WonderHowTo](https://www.wonderhowto.com/)
 
 
 # Keyboards
