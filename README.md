@@ -22,13 +22,14 @@ Managing Information Security Risk: Organization, Mission, and Information Syste
 
 [NIST SP 800-30R1 Guide for Conducting Risk Assessments](https://csrc.nist.gov/pubs/sp/800/30/r1/final)
 
-[Cyber AB](https://cyberab.org/CMMC-Ecosystem/Ecosystem-Roles/Assessing-and-Certification)
-
 [CNSSI 1253 - SECURITY CATEGORIZATION AND CONTROL SELECTION FOR NATIONAL SECURITY SYSTEMS](https://www.dcsa.mil/portals/91/documents/ctp/nao/CNSSI_No1253.pdf)
 
 [FIPS PUB 199 - Standards for Security Categorization of Federal Information and Information Systems](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.199.pdf)
 
 [FIPS PUB 200 - Minimum Security Requirements for Federal Information and Information System](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.200.pdf)
+
+
+[Cyber AB](https://cyberab.org/CMMC-Ecosystem/Ecosystem-Roles/Assessing-and-Certification)
 
 [CMMC Training Academy](https://www.cmmctraining.academy/cmmc-and-nist-training-courses/certified-cmmc-assessor-cca)
 
