@@ -79,6 +79,8 @@ from Antisyphon Business compromise cast 1/8/2025
 [DataBreachToday](https://www.databreachtoday.com/)
 # Tools 
 
+[LiveSysInternals](https://live.sysinternals.com/)
+
 [Cyber Chef](https://cyberchef.org/)
 
 [John Strand's Github: SOC_Analyst_Labs](https://github.com/strandjs)
