@@ -49,6 +49,8 @@ Managing Information Security Risk: Organization, Mission, and Information Syste
 
 [TrustedSec: Government Contractor’s Ultimate Guide to CUI](https://trustedsec.com/blog/government-contractors-ultimate-guide-to-cui)
 
+[DOD: Cyber Awareness Training](https://www.cyber.mil/cyber-awareness-challenge)
+
 # Best Practices
 [system-hardening-and-administration/system-hardening/implementing-application-control](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-hardening/implementing-application-control)
 
