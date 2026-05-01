@@ -95,6 +95,8 @@ from Antisyphon Business compromise cast 1/8/2025
 
 [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all)
 
+[SOCMINT](https://start.me/p/ADr4qn/05-socmint)
+
 [IntelOwl](https://github.com/intelowlproject/IntelOwl)
 
 [Jason Haddix Github](https://github.com/jhaddix?tab=repositories)
