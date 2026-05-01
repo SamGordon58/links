@@ -8,6 +8,8 @@
 
 # NIST / CMMC
 
+[252.204-7012 Safeguarding Covered Defense Information and Cyber Incident Reporting](https://www.acquisition.gov/dfars/252.204-7012-safeguarding-covered-defense-information-and-cyber-incident-reporting.)
+
 [DOD CMMC Site](https://dodcio.defense.gov/cmmc/About/)
 
 [NIST 800-171R2 - Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final)
@@ -41,6 +43,8 @@ Managing Information Security Risk: Organization, Mission, and Information Syste
 
 [Tenant Check for GCCH](https://gettenantpartitionweb.azurewebsites.net/)
 
+[TrustedSec: Government Contractor’s Ultimate Guide to CUI](https://trustedsec.com/blog/government-contractors-ultimate-guide-to-cui)
+
 # Best Practices
 [system-hardening-and-administration/system-hardening/implementing-application-control](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-hardening/implementing-application-control)
 
@@ -53,6 +57,9 @@ from Antisyphon Business compromise cast 1/8/2025
 [YTLink](https://www.youtube.com/watch?v=KYMsc5O9QM0)
 
 # News
+
+[CTF Time](https://ctftime.org/)
+
 [TechWorld Monitor](https://tech.worldmonitor.app/?lat=24.2442&lon=0.0000&zoom=1.29&view=global&timeRange=7d&layers=cables%2Coutages%2Cdatacenters%2Cnatural%2CstartupHubs%2CcloudRegions%2CtechHQs%2CtechEvents)
 
 [SecJuice](https://www.secjuice.com/)
@@ -66,6 +73,9 @@ from Antisyphon Business compromise cast 1/8/2025
 [BreachClock](https://breachclock.com/)
 
 # Tools 
+
+[Cyber Chef](https://cyberchef.org/)
+
 [John Strand's Github: SOC_Analyst_Labs](https://github.com/strandjs)
 
 [Arcanium Security - Tools and Training](https://www.arcanum-sec.com/training/hack-your-brand)
@@ -92,7 +102,15 @@ from Antisyphon Business compromise cast 1/8/2025
 
 [gertjanbruggink Github](https://github.com/gertjanbruggink)
 
+[radare (free reversing toolkit](https://radare.org/n/index.html)
 
+[Virtio Win drivers](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.196-1/)
+
+[Tmate: Opensource Terminal Sharing](https://lolrmm.io/tools/tmate)
+
+[HackSplaining](https://www.hacksplaining.com/lessons)
+
+[O365 License Feature Matrix](https://m365maps.com/matrix.htm#00001110000000000000000)
 
 
 # Games
@@ -106,7 +124,7 @@ from Antisyphon Business compromise cast 1/8/2025
 
 [Network Chuck's Blog](https://blog.networkchuck.com/)
 
-# Academies & Training
+# Knowledge Emporium
 
 [TCM Security](https://tcm-sec.com/academy/)
 
@@ -120,6 +138,20 @@ from Antisyphon Business compromise cast 1/8/2025
 [Active Countermeassures](https://www.activecountermeasures.com/hunt-training/)
 
 [Arcanum Security](https://arcanum-sec.com/)
+
+[Intel Techniques Training](https://www.inteltechniques.net/)
+
+[Rocket Learn](https://www.rocketlearnonline.com/#collegecourse)
+
+[Hacking tool Cheatsheet](https://www.stationx.net/hacking-tools-cheat-sheet/)
+
+[Explain Command](https://www.mankier.com/explain)
+
+[ipsec_whack](https://www.systutorials.com/docs/linux/man/8-ipsec_whack/)
+
+[forensickween](https://forensicskween.com/)
+
+[IR Report Template: Hackthebox](https://docs.google.com/document/d/e/2PACX-1vTkpIEicOwy8tRNAxKa4f4cMpc7wrUHRM5Nr_A_bObpzDQg5pAvj7jniHa_uVWQCuHLr21hQO64BsVi/pub)
 
 
 # Keyboards
