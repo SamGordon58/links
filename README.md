@@ -33,6 +33,7 @@ Managing Information Security Risk: Organization, Mission, and Information Syste
 
 [NIST SP 800-201 - NIST Cloud Computing Forensic Reference Architecture](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-201.pdf)
 
+[DOD CUI Info Page](https://www.cdse.edu/Training/eLearning/IF141-resources/)
 
 [Cyber AB](https://cyberab.org/CMMC-Ecosystem/Ecosystem-Roles/Assessing-and-Certification)
 
@@ -83,6 +84,14 @@ from Antisyphon Business compromise cast 1/8/2025
 
 [GTFO Bins](https://gtfobins.org/)
 
+[nmap](https://nmap.org)
+
+[kalilinux](https://kali.org)
+
+
+
+
+
 # Games
 [Dungeons and Daemons](https://trustedsec.com/blog/dungeons-and-daemons)
 
@@ -94,12 +103,20 @@ from Antisyphon Business compromise cast 1/8/2025
 
 [Network Chuck's Blog](https://blog.networkchuck.com/)
 
-# Academies
+# Academies & Training
+
+[TCM Security](https://tcm-sec.com/academy/)
+
+[Josh Madakore's Cyber Range](https://www.skool.com/cyber-range)
 
 [Network Chuck Academy](https://academy.networkchuck.com/)
 
 [Blue Cape Security](https://bluecapesecurity.com/)
  - [Blue Cape Repo](https://github.com/bluecapesecurity/PWF)
+
+[Active Countermeassures](https://www.activecountermeasures.com/hunt-training/)
+
+[Arcanum Security](https://arcanum-sec.com/)
 
 
 # Keyboards
