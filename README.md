@@ -28,6 +28,8 @@ Managing Information Security Risk: Organization, Mission, and Information Syste
 
 [FIPS PUB 200 - Minimum Security Requirements for Federal Information and Information System](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.200.pdf)
 
+[NIST SP 800-201 - NIST Cloud Computing Forensic Reference Architecture](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-201.pdf)
+
 
 [Cyber AB](https://cyberab.org/CMMC-Ecosystem/Ecosystem-Roles/Assessing-and-Certification)
 
