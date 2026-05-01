@@ -51,7 +51,7 @@ Managing Information Security Risk: Organization, Mission, and Information Syste
 
 [DOD: Cyber Awareness Training](https://www.cyber.mil/cyber-awareness-challenge)
 
-[Cyber Awareness Trainin Resources](https://dl.dod.cyber.mil/wp-content/uploads/trn/online/disa-cac-2026/cac-2026-web+Public/pdf/CAC2026_External.pdf)
+[Cyber Awareness Training Resources](https://dl.dod.cyber.mil/wp-content/uploads/trn/online/disa-cac-2026/cac-2026-web+Public/pdf/CAC2026_External.pdf)
 
 # Best Practices
 [system-hardening-and-administration/system-hardening/implementing-application-control](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-hardening/implementing-application-control)
