@@ -109,6 +109,9 @@
 - **[Australian Cyber Security - Application Control](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-hardening/implementing-application-control)** `#hardening` `#app-control` `#best-practices` `#government`
   Government best practices for implementing application whitelisting and control
 
+ - **[Configure Real-Time Protection - Microsoft Defender Antivirus](https://learn.microsoft.com/en-us/defender-endpoint/configure-real-time-protection-microsoft-defender-antivirus)** `#hardening` `#antivirus` `#defender` `#windows` `#best-practices` `#microsoft`
+  Microsoft documentation for configuring and managing real-time protection in Microsoft Defender Antivirus
+
 ---
 
 ## Incident Response
