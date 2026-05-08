@@ -112,6 +112,9 @@
  - **[Configure Real-Time Protection - Microsoft Defender Antivirus](https://learn.microsoft.com/en-us/defender-endpoint/configure-real-time-protection-microsoft-defender-antivirus)** `#hardening` `#antivirus` `#defender` `#windows` `#best-practices` `#microsoft`
   Microsoft documentation for configuring and managing real-time protection in Microsoft Defender Antivirus
 
+- **[Policy CSP - Defender](https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-defender?WT.mc_id=Portal-fx)** `#mdm` `#defender` `#windows` `#policy` `#reference` `#microsoft`
+  Microsoft documentation for Defender policy configuration service provider (CSP) settings for MDM management
+
 ---
 
 ## Incident Response
