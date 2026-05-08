@@ -115,6 +115,9 @@
 - **[Policy CSP - Defender](https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-defender?WT.mc_id=Portal-fx)** `#mdm` `#defender` `#windows` `#policy` `#reference` `#microsoft`
   Microsoft documentation for Defender policy configuration service provider (CSP) settings for MDM management
 
+  - **[Defender CSP](https://learn.microsoft.com/en-us/windows/client-management/mdm/defender-csp)** `#mdm` `#defender` `#windows` `#csp` `#reference` `#microsoft`
+  Microsoft documentation for the Defender configuration service provider (CSP) used to configure and manage Microsoft Defender via MDM
+
 ---
 
 ## Incident Response
