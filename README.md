@@ -118,6 +118,8 @@
 - **[Defender CSP](https://learn.microsoft.com/en-us/windows/client-management/mdm/defender-csp)** `#mdm` `#defender` `#windows` `#csp` `#reference` `#microsoft`
   Microsoft documentation for the Defender configuration service provider (CSP) used to configure and manage Microsoft Defender via MDM
 
+- **[View Incidents Queue - Microsoft Defender for Endpoint](https://learn.microsoft.com/en-us/defender-endpoint/view-incidents-queue)** `#defender` `#mde` `#incidents` `#soc` `#reference` `#microsoft`
+  Microsoft documentation for viewing and managing the incidents queue in Microsoft Defender for Endpoint
 ---
 
 ## Incident Response
