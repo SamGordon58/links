@@ -202,6 +202,8 @@
 - **[oletools - Office File Scanner](https://github.com/decalage2/oletools)** `#malware` `#analysis` `#office` `#github`
   Tools to analyze Microsoft Office files without opening them
 
+- [FlareVM](https://github.com/mandiant/flare-vm)
+
 ### System Administration & Monitoring
 
 - **[Live Sysinternals](https://live.sysinternals.com/)** `#windows` `#tools` `#monitoring` `#administration`
