@@ -186,6 +186,8 @@
 - **[FBI WatchDog](https://github.com/DarkWebInformer/FBI_Watchdog/)** `#darkweb` `#monitoring` `#github` `#tools`
   Dark web monitoring tool for intelligence gathering
 
+- [Eric Zimmerman's Tools](https://ericzimmerman.github.io/)
+
 ### Analysis & Reverse Engineering
 
 - **[CyberChef](https://cyberchef.org/)** `#analysis` `#encoding` `#conversion` `#swiss-army-knife`
