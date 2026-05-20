@@ -30,6 +30,8 @@
 - **[Cyber Awareness Challenge](https://www.cyber.mil/cyber-awareness-challenge)** `#training` `#dod` `#awareness` `#compliance`
   Official DoD cyber awareness training and certification program
 
+- **[Huntress CMMC Guide](https://www.huntress.com/cmmc-compliance-guide/cmmc-controls)**
+
 ### DFARS & FAR Requirements
 
 - **[252.204-7012 - Safeguarding Covered Defense Information](https://www.acquisition.gov/dfars/252.204-7012-safeguarding-covered-defense-information-and-cyber-incident-reporting)** `#dfars` `#compliance` `#requirements` `#dod`
