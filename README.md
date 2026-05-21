@@ -30,7 +30,8 @@
 - **[Cyber Awareness Challenge](https://www.cyber.mil/cyber-awareness-challenge)** `#training` `#dod` `#awareness` `#compliance`
   Official DoD cyber awareness training and certification program
 
-- **[Huntress CMMC Guide](https://www.huntress.com/cmmc-compliance-guide/cmmc-controls)**
+- **[Huntress CMMC Guide](https://www.huntress.com/cmmc-compliance-guide/cmmc-controls)** `#cmmc` `#compliance` `#guide` `#reference`
+  Huntress guide to CMMC controls and compliance requirements for SMBs and MSPs
 
 ### DFARS & FAR Requirements
 
@@ -122,6 +123,9 @@
 
 - **[View Incidents Queue - Microsoft Defender for Endpoint](https://learn.microsoft.com/en-us/defender-endpoint/view-incidents-queue)** `#defender` `#mde` `#incidents` `#soc` `#reference` `#microsoft`
   Microsoft documentation for viewing and managing the incidents queue in Microsoft Defender for Endpoint
+
+- **[Proxmox VE 9.x Hardening Guide](https://github.com/HomeSecExplorer/Proxmox-Hardening-Guide/blob/main/docs/pve9-hardening-guide.md)** `#hardening` `#proxmox` `#virtualization` `#linux` `#best-practices` `#github`
+  Community hardening guide for Proxmox VE 9.x hypervisor environments
 ---
 
 ## Incident Response
@@ -188,7 +192,8 @@
 - **[FBI WatchDog](https://github.com/DarkWebInformer/FBI_Watchdog/)** `#darkweb` `#monitoring` `#github` `#tools`
   Dark web monitoring tool for intelligence gathering
 
-- [Eric Zimmerman's Tools](https://ericzimmerman.github.io/)
+- **[Eric Zimmerman's Tools](https://ericzimmerman.github.io/)** `#forensics` `#dfir` `#windows` `#tools` `#reference`
+  Free DFIR tools for Windows forensics and artifact analysis from SANS instructor Eric Zimmerman
 
 ### Analysis & Reverse Engineering
 
@@ -204,7 +209,8 @@
 - **[oletools - Office File Scanner](https://github.com/decalage2/oletools)** `#malware` `#analysis` `#office` `#github`
   Tools to analyze Microsoft Office files without opening them
 
-- [FlareVM](https://github.com/mandiant/flare-vm)
+- **[FlareVM](https://github.com/mandiant/flare-vm)** `#reverse-engineering` `#malware` `#analysis` `#windows` `#github`
+  Mandiant's Windows-based malware analysis and reverse engineering VM distribution
 
 ### System Administration & Monitoring
 
