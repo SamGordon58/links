@@ -239,7 +239,7 @@
 - **[HackSplaining](https://www.hacksplaining.com/lessons)** `#education` `#tutorials` `#security-concepts` `#interactive`
   Interactive lessons explaining common security vulnerabilities
 
-- ***[504 Lab](https://markbaggett.github.io/504lab/)**
+- **[504 Lab](https://markbaggett.github.io/504lab/)**
 
 ### Miscellaneous Tools
 
