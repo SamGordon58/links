@@ -21,6 +21,8 @@
 
 ### Compliance & Standards (Official References)
 
+- [§ 170.19 CMMC scoping.](https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-G/part-170/subpart-D/section-170.19)
+
 - **[DOD Cyber Exchange](https://www.cyber.mil/)** `#compliance` `#dod` `#official` `#reference`
   Official DoD cybersecurity guidance, resources, and best practices
 
