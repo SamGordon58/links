@@ -93,6 +93,8 @@
 
 ### CUI & Compliance Resources
 
+- [Cooey Life Discord](http://cooey.life/)
+
 - **[DOD CUI Information Page](https://www.cdse.edu/Training/eLearning/IF141-resources/)** `#cui` `#training` `#dod` `#compliance`
   CUI training and educational resources from CDSE
 
