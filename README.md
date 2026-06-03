@@ -35,6 +35,8 @@
 - **[Huntress CMMC Guide](https://www.huntress.com/cmmc-compliance-guide/cmmc-controls)** `#cmmc` `#compliance` `#guide` `#reference`
   Huntress guide to CMMC controls and compliance requirements for SMBs and MSPs
 
+- [Cryptographic Module Validation Program](https://csrc.nist.gov/projects/cryptographic-module-validation-program/validated-modules/search?SearchMode=Basic&CertificateStatus=Active&ValidationYear=0)
+
 ### DFARS & FAR Requirements
 
 - **[252.204-7012 - Safeguarding Covered Defense Information](https://www.acquisition.gov/dfars/252.204-7012-safeguarding-covered-defense-information-and-cyber-incident-reporting)** `#dfars` `#compliance` `#requirements` `#dod`
