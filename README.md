@@ -74,6 +74,10 @@
 - **[NIST SP 800-201 - Cloud Forensics](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-201.pdf)** `#nist` `#forensics` `#cloud` `#reference`
   Cloud computing forensic reference architecture
 
+### RMF
+- [PART 117—NATIONAL INDUSTRIAL SECURITY PROGRAM OPERATING MANUAL (NISPOM)](https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117)
+
+
 ### FIPS Standards
 
 - **[FIPS PUB 199 - Security Categorization](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.199.pdf)** `#fips` `#reference` `#categorization`
