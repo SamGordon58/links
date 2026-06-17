@@ -264,6 +264,9 @@
 - **[O365 License Feature Matrix](https://m365maps.com/matrix.htm#00001110000000000000000)** `#microsoft-365` `#licensing` `#reference`
   Comprehensive Microsoft 365 feature comparison matrix
 
+### Microsoft Knowledge Base
+- [Enrollment guide: Enroll Android devices in Microsoft Intune](https://learn.microsoft.com/en-us/intune/device-enrollment/android/guide)
+
 ---
 
 ## Learning & Training
