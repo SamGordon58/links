@@ -74,7 +74,7 @@
 - **[NIST SP 800-201 - Cloud Forensics](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-201.pdf)** `#nist` `#forensics` `#cloud` `#reference`
   Cloud computing forensic reference architecture
 
-- [NIST SP 800-60](https://csrc.nist.gov/pubs/sp/800/60/r2/iwd)
+- [NIST SP 800-60 - Guide for Mapping Types of Information and Systems to Security Categories](https://csrc.nist.gov/pubs/sp/800/60/r2/iwd)
 
 - [NIST SP 800-88R2 - Guidelines for Media Sanitization](https://csrc.nist.gov/pubs/sp/800/88/r2/final)
 
