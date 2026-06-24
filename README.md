@@ -76,6 +76,8 @@
 
 - [NIST SP 800-60](https://csrc.nist.gov/pubs/sp/800/60/r2/iwd)
 
+- [NIST SP 800-88R2 - Guidelines for Media Sanitization](https://csrc.nist.gov/pubs/sp/800/88/r2/final)
+
 ### RMF
 - [PART 117—NATIONAL INDUSTRIAL SECURITY PROGRAM OPERATING MANUAL (NISPOM)](https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117)
 
