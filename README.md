@@ -15,6 +15,8 @@
 - **[Recall AI](https://www.recall.it/)** `#ai` `#monitoring` `#security` `#endpoint`
   Endpoint monitoring and recording platform for security and compliance
 
+- **[N8N Workflows](https://zie619.github.io/n8n-workflows/)
+
 ---
 
 ## NIST & CMMC
